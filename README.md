@@ -20,7 +20,7 @@
 </p>
 
 <br />
-<h2 align="left">🌟 Languages & Tools</h2>
+<h2 align="left">🌟 Lenguajes & herramientas</h2>
 <div>
     <img align="left" src="./assets/dog.gif" width="120" height="140" loop="infinite"/>
     <img align="right" src="./assets/cat.gif" width="120" height="120" loop="infinite"/>
@@ -38,57 +38,19 @@
 </div>
 
 <br />
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">📊 Estadisticas de GitHub</h2>
 
 <div align="center">
-    <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/bbkx226?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
-    <img width="400px" alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=bbkx226&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
+    <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/darkschoise?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
+    <img width="400px" alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=darkschoise&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
 </div>
 <br />
 <br />
 
-<h2 align="left">🧰 Top used Languages</h2>
+<h2 align="left">🧰 Lenguajes más usados</h2>
 <div align="center">
-<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12" />
+<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkschoise&layout=compact&langs_count=12" />
 </div>
-
-<h2 align="left">📌 GitHub Repo</h2>
-<div align="center">
-    <a href="https://github.com/bbkx226/terminalWebsite" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=terminalWebsite&hide=stars&show_owner=true"/>
-    </a>
-    <a href="https://github.com/bbkx226/AlphaGoSpirit" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AlphaGoSpirit&hide=stars&show_owner=true"/>
-    </a>
-</div>
-<div align="center">
-    <a href="https://github.com/bbkx226/Discord-Bot" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Discord-Bot&hide=stars&show_owner=true"/>
-    </a>
-    <a href="https://github.com/bbkx226/ImageGenerationAI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=ImageGenerationAI&hide=stars&show_owner=true"/>
-    </a>
-</div>
-<div align="center">
-    <a href="https://github.com/bbkx226/Full-Stack-2023" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Full-Stack-2023&hide=stars&show_owner=true"/>
-    </a>
-    <a href="https://github.com/bbkx226/Leetcode-Daily-Practice" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Leetcode-Daily-Practice&hide=stars&show_owner=true"/>
-    </a>
-</div>
-<div align="center">
-    <a href="https://github.com/bbkx226/Informatics-Innopolis-2022" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Informatics-Innopolis-2022&hide=stars&show_owner=true"/>
-    </a>
-</div>
-
-<br />
-<h2 align="left">🐍 GitHub Contribution</h2>
-<div align="center">
-    <img src="https://github.com/bbkx226/bbkx226/blob/output/github-contribution-grid-snake.svg?palette=github-dark" />
-</div>
-
 
 
 
