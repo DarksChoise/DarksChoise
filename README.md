@@ -1,31 +1,21 @@
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
-    <h1 align="left">😎 Brandon Ban</h1>
+    <h1 align="left">😈 Juan Diego Andrade</h1>
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
-**`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|Machine Learning]`**
+**`Desarollador de Software [Estudiante Universitario | Desarrollador Back-End ]`**
 
 <p style='text-align: justify;'>
-Welcome to my Github profile, I'm Brandon! As a highly motivated and disciplined computer science student, I am deeply committed to pursuing a career in full stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full stack developer. 
-</p>
-
-<p style='text-align: justify;'>
-My GitHub portfolio showcases a diverse range of coding projects, including those that I have independently developed, those that were inspired by instructional resources, and those that were created through collaborative efforts with other aspiring developers. For a comprehensive overview of my qualifications and expertise, I kindly direct you to my <a href="https://www.bbkx.live/" target="_blank">portfolio website</a> or <a href="https://bbkxterminal.web.app/" target="_blank">terminal website</a>. 
+¡Bienvenido a mi perfil de Github, soy Juan Diego! Como estudiante de ciencias de la computación altamente motivado y disciplinado, estoy profundamente comprometido con seguir una carrera en el desarrollo back-end. A través de una combinación de autoaprendizaje y colaboración con mis compañeros, trabajo continuamente para perfeccionar mis habilidades y lograr mi objetivo de convertirme en un desarrollador back-end disciplinado.
 </p>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/bbkx/">
-        <img alt="LinkedIn" title="Checkout My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/juandiegoandrade/">
+        <img alt="LinkedIn" title="Mira mi perfil de Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:bbkx226@gmail.com">
+    <a href="mailto:andradecardozojd@mail.com">
         <img alt="E-mail" title="Contact me via E-mail" src="https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/bbkx_/">
-        <img alt="Instagram" title="Contact me via Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://www.facebook.com/bbkx.0226/">
-        <img alt="Facebook" title="Contact me via Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
     <a href="https://github.com/bbkx226">
         <img src="https://komarev.com/ghpvc/?username=bbkx226&color=blueviolet&style=for-the-badge&label=Profile+Views">
