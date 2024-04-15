@@ -26,7 +26,7 @@ Welcome to my GitHub profile, I'm Juan Diego! 🌟 As a highly motivated and dis
 
 <p align="center">
     <img src="./assets/dog.gif" width="120" height="140" loop="infinite" style="vertical-align: middle;"/>
-    <img src="https://skillicons.dev/icons?i=python,django,java,html,css,js,flask,fastapi,java,aws,docker,mysql,postgresql,mongodb,linux,git" style="width: 75%; height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=python,django,java,html,css,js,flask,fastapi,java,aws,docker,mysql,postgresql,mongodb,linux,git" style="width: 50%; height: auto;"/>
     <img src="./assets/cat.gif" width="120" height="120" loop="infinite" style="vertical-align: middle;"/>
 </p>
 
