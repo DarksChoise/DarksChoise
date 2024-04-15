@@ -1,6 +1,6 @@
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
-    <h1 align="left">😈 Juan Diego Andrade</h1>
+    <h1 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Juan Diego Andrade Cardozo</h1>
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
