@@ -1,13 +1,16 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="./assets/mario.gif" alt="banner">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
     <h1 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Juan Diego Andrade Cardozo</h1>
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
-**`Desarollador de Software [Estudiante Universitario | Desarrollador Back-End ]`**
+**`Software Developer [Python Django Back-End Developer]`**
 
 <p style='text-align: justify;'>
-¡Bienvenido a mi perfil de Github, soy Juan Diego! Como estudiante de ciencias de la computación altamente motivado y disciplinado, estoy profundamente comprometido con seguir una carrera en el desarrollo back-end. A través de una combinación de autoaprendizaje y colaboración con mis compañeros, trabajo continuamente para perfeccionar mis habilidades y lograr mi objetivo de convertirme en un desarrollador back-end disciplinado.
+Welcome to my GitHub profile, I'm Juan Diego! 🌟 As a highly motivated and disciplined computer science student, I'm fully committed to pursuing a career in back-end development. Through a mix of self-learning and teaming up with my peers, I'm always on the grind to sharpen my skills and achieve my goal of becoming a top-notch back-end developer. 👨‍💻 Let's connect and create something amazing together! 🚀
 </p>
 
 <p align="left">
@@ -20,7 +23,7 @@
 </p>
 
 <br />
-<h2 align="left">🌟 Lenguajes & herramientas</h2>
+<h2 align="left">🌟 Languages & Tools</h2>
 <div>
     <img align="left" src="./assets/dog.gif" width="120" height="140" loop="infinite"/>
     <img align="right" src="./assets/cat.gif" width="120" height="120" loop="infinite"/>
@@ -38,7 +41,7 @@
 </div>
 
 <br />
-<h2 align="left">📊 Estadisticas de GitHub</h2>
+<h2 align="left">📊 GitHub Statistics</h2>
 
 <div align="center">
     <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/darkschoise?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
@@ -46,11 +49,6 @@
 </div>
 <br />
 <br />
-
-<h2 align="left">🧰 Lenguajes más usados</h2>
-<div align="center">
-<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkschoise&layout=compact&langs_count=12" />
-</div>
 
 
 
